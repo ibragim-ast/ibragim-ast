@@ -1,21 +1,16 @@
-Hi, my name is Ibragim/ Привет, Меня зовут Ибрагим!
+Привет, Меня зовут Ибрагим!
 ===================================================
-junior web-developer / начинающий веб-разработчик
+начинающий веб-разработчик
 ---------------------------------------------------
+Я живу в Грозном, Чеченская Республика, Россия 
+Сейчас я учусь в Яндекс.Практикуме и работаю над учебным проектом "Место" на React (http://https://github.com/ibragim-ast/mesto-react.git)
 
-* 🌍  I live in Grozny, Chechen Republic, Russia / Я живу в Грозном, Чеченская Республика, Россия
-
-* ✉️  You can contact me at / Свяжись со мной [ibragim.ast@gmail.com](mailto:ibragim.ast@gmail.com)
-* 🚀  I'm currently working on / В настоящее время я работаю над учебным проектом "Место" на React (http://https://github.com/ibragim-ast/mesto-react.git)
-* 🧠  I'm learning Yandex.Practicum / Сейчас я учусь в Яндекс.Практикуме
-
-### See my portfolio at / Мое портфолио:
+### Портфолио:
 - [Проект "Место"](http://https://github.com/ibragim-ast/mesto.git)
 - [Проект "Путешествие по России"](https://ibragim-ast.github.io/russian-travel/)
 - Проект "Умение учиться" (https://github.com/ibragim-ast/how-to-learn.git)
 
-### Skills
-
+### Навыки
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,8 +25,8 @@ junior web-developer / начинающий веб-разработчик
 </p>
 
 
-### Socials
-
+### Контакты
+✉️ [ibragim.ast@gmail.com](mailto:ibragim.ast@gmail.com)
 <p align="left"> <a href="https://www.github.com/ibragim-ast" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibragimast2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibragimast" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
