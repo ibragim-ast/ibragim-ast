@@ -28,8 +28,9 @@
 
 
 ### Контакты
-[![Email](https://cdn.icon-icons.com/icons2/1011/PNG/512/Gmail_icon-icons.com_75706.png)](mailto:ibragim.ast@gmail.com)
-
+<a href="mailto:ibragim.ast@gmail.com">
+  <img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Gmail_icon-icons.com_75706.png" alt="Email" width="100" height="100">
+</a>
 <p align="left"> <a href="https://www.github.com/ibragim-ast" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibragimast2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibragimast20527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
