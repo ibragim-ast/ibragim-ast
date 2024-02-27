@@ -4,7 +4,8 @@
 --------------------------------------------------- 
 😍 Чистые ботинки, машина и код - наше все.  
 ✍️ Стараюсь писать так, чтобы потом мой код могли прочитать не только лишь все, но и я...  
-🤑 Терпелив, усидчив, целеустремлен, ищу единомышленников за умеренную плату
+🤑 Терпелив, усидчив, целеустремлен.
+🏢 Готов к дойстойным предложениям о работе 
 
 ### Портфолио:
 - [Веб приложение, посвященное российскому фестивалю документального кино Beat Film](https://movies-ast.nomoreparties.co/)
@@ -32,7 +33,6 @@
   <img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Gmail_icon-icons.com_75706.png" alt="Email" width="36" height="36">
 </a>
   <a href="https://www.github.com/ibragim-ast" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/ibragimast2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibragimast20527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
