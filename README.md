@@ -8,10 +8,9 @@
 
 ### Портфолио:
 - [eatpoint](https://github.com/finding-and-booking-tables-restaurants/eatpoint-frontend). Сервис поиска и бронирования столиков в заведениях общественного питания
-- [Веб приложение, посвященное российскому фестивалю документального кино Beat Film](https://github.com/ibragim-ast/movies-explorer-frontend)
+- [Beat Film](https://github.com/ibragim-ast/movies-explorer-frontend). Веб приложение, посвященное российскому фестивалю документального кино Beat Film
 - [Проект "Место"](https://github.com/ibragim-ast/mesto.git)
 - [Проект "Путешествие по России"](https://ibragim-ast.github.io/russian-travel/)
-- Проект "Умение учиться" (https://github.com/ibragim-ast/how-to-learn.git)
 
 ### Навыки
 <p align="left">
