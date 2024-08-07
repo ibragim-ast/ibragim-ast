@@ -7,12 +7,6 @@
 🤑 Терпелив, усидчив, целеустремлен.  
 👀 Открыт к предложениям о работе  
 
-### Портфолио:
-- [eatpoint](https://github.com/finding-and-booking-tables-restaurants/eatpoint-frontend). Сервис поиска и бронирования столиков в заведениях общественного питания
-- [beatfilm](https://github.com/ibragim-ast/movies-explorer-frontend). Веб приложение, посвященное российскому фестивалю документального кино Beat Film
-- [mesto](https://github.com/ibragim-ast/mesto.git). Социальная сеть для обмена фотографиями
-- [Проект "Путешествие по России"](https://ibragim-ast.github.io/russian-travel/)
-
 ### Навыки
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
