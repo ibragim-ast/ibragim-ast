@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhtOHowZHZhdWphNHU1NW4xZW94eDQzbDhyYnFuYmZrM2U0Z2IzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </div>
 
-Привет, меня зовут Ибрагим!
+👋 Привет, меня зовут Ибрагим!
 ===================================================
 Фронтенд-разработчик
 --------------------------------------------------- 
