@@ -7,8 +7,12 @@
 
 ✍️ Стараюсь писать так, чтобы потом мой код могли прочитать не только лишь все, но и я...  
 🤑 Терпелив, усидчив, целеустремлен.  
-👀 Открыт к предложениям о работе  
-
+👀 Открыт к предложениям о работе
+<p align="center">
+  <a href="https://t.me/ibragimast" target="vblanc"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=black"/></a>
+  
+  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=black"/>
+</p>
 ### Стек
 <p align="center">
 <img src="https://img.shields.io/badge/React-7fffd4?style=for-the-badge&logo=react&logoColor=black"/>
