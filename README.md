@@ -5,11 +5,11 @@
 </div>
 
 ### About me  
-🕗 Завтракаю HTML`ом, запивая CSS  
-🍴 В обед JavaScript на первое, React на второе, TypeScript на десерт     
-🌇 Вечером строго Git, но не могу не поглядывать на Redux Toolkit  
+🕗 Завтракаю **HTML**`ом, запивая **CSS**  
+🍴 В обед **JavaScript** на первое, **React** на второе, **TypeScript** на десерт     
+🌇 Вечером строго **Git**, но **Redux Toolkit** так и норовит испортить мою диету  
 
-### Со мной можно связаться  
+### Свяжись со мной  
 <p align="center">
   <a href="https://t.me/ibragimast" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
    <a href="https://instagram.com/ibragimast2" target="_blank"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
