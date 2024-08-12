@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/TypeScript-7fffd4?style=for-the-badge&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-7fffd4?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-7fffd4?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-7fffd4?style=for-the-badge&logo=git&logoColor=black"/>
 </p>
 
 
