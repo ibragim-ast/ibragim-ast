@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://imgflip.com/gif/9031k8" alt="Hi, I'm Ibragim 👋 I'm a 🚀 Frontend-developer 🚀 Я ❤️ учиться ❤️" width="100%">
+  <img src="https://github.com/ibragim-ast/todo-app-vue3/blob/main/frontend.gif" alt="Hi, I'm Ibragim 👋 I'm a 🚀 Frontend-developer 🚀 Я ❤️ учиться ❤️" width="100%">
 </p>
-
-<div id="header" align="center">
-  <h1>👋 Привет, меня зовут Ибрагим!</h1>
-  <p>Frontend-разработчик с небольшим опытом и большими планами🚀</p>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhtOHowZHZhdWphNHU1NW4xZW94eDQzbDhyYnFuYmZrM2U0Z2IzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-</div>
 
 ### About me  
 🕗 Завтракаю **HTML**`ом, запивая **CSS**  
