@@ -2,19 +2,19 @@
   <img src="https://github.com/ibragim-ast/todo-app-vue3/blob/main/frontend.gif" alt="Hi, I'm Ibragim 👋 I'm a 🚀 Frontend-developer 🚀 Я ❤️ учиться ❤️" width="100%">
 </p>
 
-### 🙋🏻‍♂️About me  
+### 🙋🏻‍♂️ About me  
 🕗 Завтракаю **HTML**`ом, запивая **CSS**  
 🍴 В обед **JavaScript** на первое, **React** на второе, **TypeScript** на десерт     
 🌇 Вечером строго **Git**, но **Redux Toolkit** так и норовит испортить мою диету  
 
-### 🔗Свяжись со мной  
+### 🔗 Свяжись со мной  
 <p align="left">
   <a href="https://t.me/ibragimast" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
    <a href="https://instagram.com/ibragimast2" target="_blank"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
   <a href="https://vk.com/ibragimast" target="_blank"><img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white"/></a>  
 </p>  
 
-### 🛠️Стек
+### 🛠️ Стек
 <p align="left">
 <img src="https://img.shields.io/badge/React-7fffd4?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-7fffd4?style=for-the-badge&logo=javascript&logoColor=black"/>
