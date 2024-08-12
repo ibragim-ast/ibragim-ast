@@ -2,7 +2,7 @@
   <img src="https://github.com/ibragim-ast/todo-app-vue3/blob/main/frontend.gif" alt="Hi, I'm Ibragim 👋 I'm a 🚀 Frontend-developer 🚀 Я ❤️ учиться ❤️" width="100%">
 </p>
 
-### About me  
+### 🙋🏻‍♂️About me  
 🕗 Завтракаю **HTML**`ом, запивая **CSS**  
 🍴 В обед **JavaScript** на первое, **React** на второе, **TypeScript** на десерт     
 🌇 Вечером строго **Git**, но **Redux Toolkit** так и норовит испортить мою диету  
