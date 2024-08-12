@@ -10,10 +10,9 @@
 👀 Открыт к предложениям о работе
 <p align="center">
   <a href="https://t.me/ibragimast" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=black"/></a>
-   <a href="https://instagram.com/ibragimast2" target="_blank"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  
-  
-</p>
+   <a href="https://instagram.com/ibragimast2" target="_blank"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=black"/></a>  
+</p>  
+
 ### Стек
 <p align="center">
 <img src="https://img.shields.io/badge/React-7fffd4?style=for-the-badge&logo=react&logoColor=black"/>
