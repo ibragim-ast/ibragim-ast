@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Привет, меня зовут Ибрагим!</h1>
-  <p>Frontend-разработчик с небольшим опытом, но с далеко идущими планами🚀</p>
+  <p>Frontend-разработчик с небольшим опытом и большими планами🚀</p>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhtOHowZHZhdWphNHU1NW4xZW94eDQzbDhyYnFuYmZrM2U0Z2IzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </div>
 
