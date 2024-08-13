@@ -11,7 +11,8 @@
 <p align="left">
   <a href="https://t.me/ibragimast" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
    <a href="https://instagram.com/ibragimast2" target="_blank"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
-  <a href="https://vk.com/ibragimast" target="_blank"><img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white"/></a>  
+  <a href="https://vk.com/ibragimast" target="_blank"><img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white"/></a>
+  <a href="mailto:ibragim.ast@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>  
 </p>  
 
 ### 🛠️ Стек
