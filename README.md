@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/HTML-7fffd4?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-7fffd4?style=for-the-badge&logo=css3&logoColor=black"/>
 <img src="https://img.shields.io/badge/GIT-7fffd4?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/NPM-7fffd4?style=for-the-badge&logo=npm&logoColor=black"/>
+<img src="https://img.shields.io/badge/BEM-7fffd4?style=for-the-badge&logo=bem&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swagger-7fffd4?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/axios-7fffd4?style=for-the-badge&logo=axios&logoColor=black"/>
 </p>
 
 ### 📚 Изучаю
