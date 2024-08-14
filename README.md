@@ -29,7 +29,7 @@
 ### 📚 Изучаю
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-7fffd4?style=for-the-badge&logo=typescript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-Toolkit-7fffd4?style=for-the-badge&logo=redux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux Toolkit-7fffd4?style=for-the-badge&logo=redux&logoColor=black"/>
 </p>
 
 <b>My GitHub Stats</b>
