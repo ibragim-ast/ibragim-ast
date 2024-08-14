@@ -26,6 +26,12 @@
 <img src="https://img.shields.io/badge/GIT-7fffd4?style=for-the-badge&logo=git&logoColor=black"/>
 </p>
 
+### 📚 Изучаю
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-7fffd4?style=for-the-badge&logo=typescript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-Toolkit-7fffd4?style=for-the-badge&logo=redux&logoColor=black"/>
+</p>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ibragim-ast"><img src="https://github-readme-stats.vercel.app/api?username=ibragim-ast&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibragim-ast's GitHub stats" /></a>
